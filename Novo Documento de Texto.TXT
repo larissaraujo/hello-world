@@ -1,1 +1,2 @@
 testando github
+Branches fazem controle de versão, copiam conteudo antigo para uma nova versão
